@@ -101,6 +101,11 @@ background: var(--grayscale-gray-200, #131320);
 
 
 
+.imput {
+    gap: 6px;
+    margin-bottom: 14px;
+}
+
 
 
 .esquerda {
